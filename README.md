@@ -1,1 +1,3 @@
-# distance-sensors
+# Design and development of an embedded system for obstacle detection on radio-controlled cars
+
+This project aims to describe the design and development of an embedded system for obstacle detection on radio-controlled cars. The system consists of an Arduino Due microcontroller, responsible for collecting distance measurements from 8 proximity sensors placed on the radio-controlled car. The acquired data is transmitted via serial communication to an Arduino Nano 33 BLE, which processes it, filters out any anomalous values, and sends it via Bluetooth Low Energy to an application developed with Flutter. This app allows the user to easily and intuitively visualize the presence of obstacles around the radio-controlled car.
