@@ -6,7 +6,7 @@ This project aims to describe the design and development of an embedded system f
 
 ## Hardware requirements
 
-- 8 HC-SR04 proximity sensors.
+- 8 HC-SR04 proximity sensors
 - [Arduino Nano 33 BLE](https://docs.arduino.cc/hardware/nano-33-ble/)
 - [Arduino Due](https://docs.arduino.cc/hardware/nano-33-ble/)
 - [RC Car](https://traxxas.com/) 
